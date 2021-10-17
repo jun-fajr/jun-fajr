@@ -84,9 +84,3 @@
 </div>
 
 <br />
-
-<div align="center">
-<h3> Keep learning until you are stronger than Madara </h3>
-<!--  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" /> -->
- <img src="https://i.pinimg.com/originals/a4/6a/63/a46a639e68d59591b872e75f5146cf4d.gif" />
-</div>
