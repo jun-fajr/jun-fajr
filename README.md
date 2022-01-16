@@ -2,7 +2,7 @@
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/24/1d/36/241d368387f32bef7900367688294381.jpg"/> -->
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/236x/06/00/ed/0600ede427158843dd4a83e675b6ed26.jpg"/> -->
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/80/79/d9/8079d9a6a511accc85d0377a19169eab.jpg"/> -->
-<img  align="center" src="https://raw.githubusercontent.com/jun-alfajr/jun-alfajr/main/assets/CODEPROJECTREPO.jpg"/>
+<img  align="center" src="https://raw.githubusercontent.com/jun-fajr/jun-fajr/main/assets/CODEPROJECTREPO.jpg"/>
 
 ## Hi there, I'm Jun
 
@@ -15,12 +15,12 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ![a](https://capsule-render.vercel.app/api?type=waving&height=300&text=Nice%20to%20Meet%20You!&fontAlign=40&fontAlignY=40&color=gradient)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jun-alfajr.jun-alfajr)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jun-fajr.jun-fajr)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:jun-alfajr@gmail.com)](mailto:jun-alfajr@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/jun-alfajr)](https://id.linkedin.com/in/jun-alfajr)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/jun-alfajr/)](https://www.instagram.com/jun-alfajr/)
-![hafet17 Stars](https://img.shields.io/github/stars/jun-alfajr?affiliations=OWNER&style=social)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:jun.fajr@gmail.com)](mailto:jun.fajr@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://id.linkedin.com/in/jun-fajr)](https://id.linkedin.com/in/jun-fajr)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/jun-fajr/)](https://www.instagram.com/jun-fajr/)
+![hafet17 Stars](https://img.shields.io/github/stars/jun-fajr?affiliations=OWNER&style=social)
 
 ## this is my code playground area just for fun
 
@@ -39,16 +39,16 @@
 
 <p align="center">
   <a>
-    <img height="120" width="140" src="https://github.com/jun-alfajr/jun-alfajr/raw/main/assets/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jun-alfajr&theme=dark&hide_border=true" alt="jun-alfajr"/>
-    <img height="120" width="140" src="https://github.com/jun-alfajr/jun-alfajr/raw/main/assets/right.png">
+    <img height="120" width="140" src="https://github.com/jun-fajr/jun-fajr/raw/main/assets/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jun-fajr&theme=dark&hide_border=true" alt="jun-fajr"/>
+    <img height="120" width="140" src="https://github.com/jun-fajr/jun-fajr/raw/main/assets/right.png">
   </a>
 </p>
 
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jun-alfajr&row=2&column=8&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="jun-alfajr" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jun-fajr&row=2&column=8&margin-w=15&margin-h=15&theme=dracula&no-bg=true&no-frame=true" alt="jun-fajr" /></a></p>
  
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=jun-alfajr&theme=cobalt&show_icons=true)](https://github.com/jun-alfajr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-alfajr&hide=TeX&layout=compact&theme=cobalt)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=jun-fajr&theme=cobalt&show_icons=true)](https://github.com/jun-fajr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-fajr&hide=TeX&layout=compact&theme=cobalt)
     
 </details>
 
@@ -70,16 +70,16 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   <p align="center">
-<img src="https://github.com/jun-alfajr/jun-alfajr/raw/main/assets/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif" />
+<img src="https://github.com/jun-fajr/jun-fajr/raw/main/assets/121804031-97b50f00-cc44-11eb-8fc9-3b92711e50c6.gif" />
   </p>
 </details>
 <br />
 <div>
-    <img src="https://raw.githubusercontent.com/jun-alfajr/jun-alfajr/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/jun-fajr/jun-fajr/output/github-contribution-grid-snake.svg" />
 </div>
 <br>
 <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=jun-alfajr&theme=xcode&area=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=jun-fajr&theme=xcode&area=true" />
     
 </div>
 
