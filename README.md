@@ -24,10 +24,9 @@
 
 ## this is my code playground area just for fun
 
-- 🎓 I’m currently learn everything :)
+- ⚡ I’m currently learn everything :)
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: Married and rich
-- ⚡ Fun fact: I don't really like to code but i am programmer
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
