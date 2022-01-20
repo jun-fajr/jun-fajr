@@ -2,7 +2,7 @@
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/24/1d/36/241d368387f32bef7900367688294381.jpg"/> -->
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/236x/06/00/ed/0600ede427158843dd4a83e675b6ed26.jpg"/> -->
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/80/79/d9/8079d9a6a511accc85d0377a19169eab.jpg"/> -->
-<img  align="center" src="https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/s960x960/271997152_10223705690424273_826049609529549215_n.jpg"/>
+<img  align="center" src="https://github.com/jun-fajr/jun-fajr/blob/main/assets/271997152_10223705690424273_826049609529549215_n.jpg?raw=true"/>
 
 ## Hi there, I'm Jun
 
