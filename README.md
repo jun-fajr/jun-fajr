@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Programmer,Developer,Designer+and+Freelancer+💻)](https://git.io/typing-svg)
 
-<!-- I'm+a+Programmer,Developer,Designer+and+Freelancer -->
+<!-- I'm+a+ Muslim, Programmer, Designer+and+Technician -->
 
 <!-- <img align="center"  src="https://raw.githubusercontent.com/jun-alfajr/jun-alfajr/saved/sat.svg"/> -->
 
