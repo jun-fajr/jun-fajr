@@ -6,7 +6,7 @@
 
 ## Hi there, I'm Jun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8000FF&width=750&lines=I'm+a+Muslim, Software Engineer, Web Developer, Designer+and+IT Freelancer+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AA25F7&width=435&lines=I'm+a+Muslim+and+Software+Engineer;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
 <!-- I'm+a+ Muslim, Programmer, Designer+and+Technician -->
 
