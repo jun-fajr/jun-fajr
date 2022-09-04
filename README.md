@@ -4,9 +4,9 @@
 <!-- <img width="300px" align="right" src="https://i.pinimg.com/564x/80/79/d9/8079d9a6a511accc85d0377a19169eab.jpg"/> -->
 <img  align="center" src="https://github.com/jun-fajr/jun-fajr/blob/main/assets/271997152_10223705690424273_826049609529549215_n.jpg?raw=true"/>
 
-## Hi there, I'm Jun
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AA25F7&width=435&lines=a+Muslim+and+Software+Engineer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=AA25F7&width=435&lines=Hi+there%2C+I'm+Jun;a+Muslim+and+Software+Engineer)](https://git.io/typing-svg)
 
 <!-- I'm+a+ Muslim, Programmer, Designer+and+Technician -->
 
